@@ -19,5 +19,7 @@ This program "simulates" a game of Super Mario Bros.
     - World.h
 
 #### Execution 
-g++ *.cpp -o e.exe
-./e.exe spec.txt > log.txt 
+```
+<g++ *.cpp -o e.exe
+./e.exe spec.txt > log.txt
+```
