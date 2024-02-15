@@ -1,13 +1,14 @@
 # MarioDataStructures
 
-# Author: Kalin Richardson
-# Email: kalrichardson@chapman.edu
-# Project: PA2 - Not So Mario Bros.
+### Author: Kalin Richardson
+### Email: kalrichardson@chapman.edu
+### Project: PA2 - Not So Mario Bros.
 
-# Overview:
+#### Overview:
 This program "simulates" a game of Super Mario Bros.
+#
 
-# Source Files:
+#### Source Files:
     - FileProcessor.cpp
     - FileProcessor.h
     - log.txt
@@ -17,6 +18,6 @@ This program "simulates" a game of Super Mario Bros.
     - World.cpp
     - World.h
 
-# Execution 
+#### Execution 
 g++ *.cpp -o e.exe
 ./e.exe spec.txt > log.txt 
